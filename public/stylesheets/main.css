@@ -199,7 +199,7 @@ body > img {
 }
 
 #authenticate {
-    color: #f65694;
+    color: #c70036;
     display: block;
     font-size: 2rem;
     margin: 20px;
@@ -208,7 +208,7 @@ body > img {
 }
 
 .auth {
-    color: #f65694;
+    color: #c70036;
     display: inline-block;
     font-size: 1.2rem;
     line-height: 51px;
@@ -270,7 +270,7 @@ body > img {
 }
 
 .infobox a {
-    color: #f65694;
+    color: #c70036;
     text-decoration: none;
     text-shadow: #fff 1px 1px 0;
 }
