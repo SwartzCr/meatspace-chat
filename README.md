@@ -13,8 +13,10 @@ If you want to create a browser add-on or plugin feel free to do so and follow t
     cp local.json-dist local.json
     cp clients.json-dist clients.json
     cp whitelist.json-dist whitelist.json
+    add 1's for twitter ids
     npm install
     npm -g install nodemon
+    npm install grunt-cli
     bower install
     npm run-script build
     npm start
