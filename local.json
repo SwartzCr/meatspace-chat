@@ -1,0 +1,21 @@
+{
+    "analytics": "your google analytics value",
+    "analyticsHost": "your domain without the protocol (e.g. someurl.com)",
+    "appId": "",
+    "authPort": 3000,
+    "ban_ttl": 60000,
+    "domain": "http://127.0.0.1",
+    "logger": "./logger",
+    "meatcounter_addrs": [
+        "ipc:///tmp/meatcounter.ipc",
+        "tcp://127.0.0.1:9999"
+    ],
+    "meatcounter_inc_topic": "meatspace.incoming",
+    "meatcounter_out_topic": "meatspace.outgoing",
+    "port": 3000,
+    "redis_db": 1,
+    "session_secret": "secret",
+    "ttl": 600000,
+    "twitter_key": "1",
+    "twitter_secret": "1"
+}
